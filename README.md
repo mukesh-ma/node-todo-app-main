@@ -1,9 +1,9 @@
-***Deploy an EC2 instance of Ubuntu on AWS
+**Deploy an EC2 instance of Ubuntu on AWS**
 Refer to 'https://docs.aws.amazon.com/kinesisvideostreams/latest/dg/gs-ubuntu.html'
 
-***Following commands on the Ubuntu terminal needs to be executed:
+**Following commands on the Ubuntu terminal needs to be executed:**
 
-#Upgrade Ubuntu's apt-get
+#Upgrade Ubuntu apt-get
 sudo apt-get update
 sudo apt-get upgrade
 
